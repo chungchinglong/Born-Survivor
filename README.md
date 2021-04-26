@@ -38,7 +38,7 @@ Born survivor is a text-based fortress adventure RPG(role-playing game). In the 
 *	Program codes in multiple files:
 	*	Main.cpp includes major functions like allowing players to decide what Tony to do in the next step.
 	*	Main.cpp can keep showing Tony’s health value, attack power, defense level and willpower.
-	*	Main.cpp will have different files like decision.h, tony.h and so on.
+	*	Main.cpp will have different files like room.h, tony.h and so on.
 *	Generation of random game sets or events: 
 	*	Outcomes of random draw of dice determine various events of the game that Tony will encounter and various materials that Tony can find to make different tools.
  
